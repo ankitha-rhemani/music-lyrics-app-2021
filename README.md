@@ -1,5 +1,5 @@
 # music-lyrics-app-2021
-Two Android apps built using Niotron, reaching 74.5K+ installs, maintained for 2 years and later responsibly sunset due to copyright considerations.
+Two Android apps built using Kodular, reaching 74.5K+ installs, maintained for 2 years and later responsibly sunset due to copyright considerations.
 
 # Overview
 This project represents a significant phase of my early app-development journey. Built in 2021, these fan-made music & lyrics apps were created when I was both a K-pop enthusiast and an app-building enthusiast, constantly looking for opportunities to learn by building and publishing real products.
@@ -20,7 +20,7 @@ Simple, lightweight UI for quick access
 Push notifications for updates and announcements
 
 # Tech Stack
-Niotron — No-code Android app development
+Kodular — No-code Android app development
 Firebase — Backend & data storage
 OneSignal — Push notifications
 Airtable — Used in early versions for content management
