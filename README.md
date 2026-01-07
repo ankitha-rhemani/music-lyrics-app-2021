@@ -26,8 +26,14 @@ OneSignal — Push notifications
 Airtable — Used in early versions for content management
 
 # Screenshots
+![Blackpink songs app](https://raw.githubusercontent.com/ankitha-rhemani/music-lyrics-app-2021/main/screenshots/1000139852.jpg)
+![BTS songs app](https://raw.githubusercontent.com/ankitha-rhemani/music-lyrics-app-2021/main/screenshots/1000139851.jpg)
 
 # Playstore Evidence
+![Total installs](https://raw.githubusercontent.com/ankitha-rhemani/music-lyrics-app-2021/main/screenshots/1000139841.jpg)
+![Total installs](https://raw.githubusercontent.com/ankitha-rhemani/music-lyrics-app-2021/main/screenshots/1000139839.jpg)
+![reviews](https://raw.githubusercontent.com/ankitha-rhemani/music-lyrics-app-2021/main/screenshots/1000139843.jpg)
+![reviews](https://raw.githubusercontent.com/ankitha-rhemani/music-lyrics-app-2021/main/screenshots/1000139837.jpg)
 
 # Project Closure
 In 2023, I decided to move toward building original products and avoid continued use of copyrighted material.
